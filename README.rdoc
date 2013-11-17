@@ -1,0 +1,3 @@
+== Google Auth Example App
+
+See http://richonrails.com/articles/google-authentication-in-ruby-on-rails for details.
